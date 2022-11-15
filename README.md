@@ -4,6 +4,7 @@
 
 This API is a certification project for freeCodeCamp's Backend Development and APIs course. The API receives a file upload via POST request and responds with JSON containing the name, MIME type and size of uploaded file.
 
+### Replit Link: https://replit.com/@OsahonOjo/fCC-apis-project-filemetadata
 
 ### Project Requirements:
 1. You can submit a form that includes a file upload.
